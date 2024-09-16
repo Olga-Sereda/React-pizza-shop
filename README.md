@@ -1,6 +1,6 @@
 # Проект Интернет-магазин пеццерии
 
-Стэк: ReactJS, Redux, redux-thunk, React Router, Axios, json-server
+**Стэк**: ReactJS, Redux, redux-thunk, React Router, Axios, json-server
 
 ## Команда для запуска проекта
 
@@ -8,7 +8,7 @@
 
 Открыть в браузере по ссылке [http://localhost:3000]
 
-Тестовые данные (с бэка) лежат в public/db.json
+Тестовые данные (бэк) лежат в public/db.json
 
 ## Запуск тестового сервера (выполнять параллельно с `npm start`)
 
